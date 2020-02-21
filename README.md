@@ -1,0 +1,2 @@
+# PuyoPuyoAssets
+Puyo Puyo Assets
